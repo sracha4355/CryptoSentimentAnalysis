@@ -1,2 +1,2 @@
 # CryptoSentimentAnalyzerUMBC
- python, tweepy, texblob
+ Analyzing public Twitter data to understand trends within cryptocurrency.
