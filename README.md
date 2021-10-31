@@ -3,4 +3,4 @@
  
  Requires tweepy, textblob, os, dotenv.
 
- This version does not have keys.
+ CrpytoConnotationAnalysis.ipynb uses a gitignore file to secure the API keys. If for whatever reason it does not work, the CryptoSentimentAnalyzerUMBC-Key Respository has the keys in it.
