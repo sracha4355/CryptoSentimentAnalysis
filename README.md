@@ -1,0 +1,2 @@
+# CryptoSentimentAnalyzerUMBC
+ python, tweepy, texblob
