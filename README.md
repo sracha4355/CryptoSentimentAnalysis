@@ -1,4 +1,4 @@
-# CryptoSentimentAnalyzerUMBC
+# CryptoSentimentAnalyzerUMBC | https://devpost.com/software/crypto-popularity-predictor | Won Best Data Driven Application | ClearEdge IT | @HackUMBC, UMBC's annual Hackathon
 Our Tool Analyzes the public sentiment around a cryptocurrency or token of your choice using Textblob, a Python NLP framework, and Tweepy, a Python implementation of the Twitter API. Create a Twitter Developer Account and get more information from their developer portal.
 *Note, The Crypto Sentiment Analyzer utilizes Twitter V1.1 API, so for this to function properly you must get keys for that version, if for whatever reason you cannot get working keys, use the version with keys CryptoConnotationAnalysisWithKeys.ipynb*
 ___________________________________________________________________________________
