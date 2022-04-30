@@ -28,3 +28,9 @@ or python3 -m venv ./venv
 ___________________________________________________________________________________
 Execution:
 Once you run the program, user will be prompted with input: for the tool to function properly, enter the name of a cryptocurrency or token. Recent Tweets about the coin will be returned along with a generated public connotation/sentiment value surrounding said coin.
+  
+![image](https://user-images.githubusercontent.com/87020608/166085195-18b22eb1-5db1-4331-b887-f4b9a87b91fd.png)
+  
+Portion of the Output:
+  
+![image](https://user-images.githubusercontent.com/87020608/166085262-59dbc801-966f-480c-995d-3acf24ed42e2.png)
