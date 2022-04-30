@@ -4,12 +4,12 @@ Our Tool Analyzes the public sentiment around a cryptocurrency or token of your 
 ___________________________________________________________________________________
 API Keys and Tokens:
 create a .env file and enter values for the fields below in this format
-*values inside {} will be your own information i.e. your api keys and token*
-API_KEY={Api Key}
-API_KEY_SECRET={Secret} 
-BEARER_TOKEN={Bearer token}
-ACCESS_TOKEN={Access token}
-ACCESS_TOKEN_SECRET={Access Token Secret}
+*values inside {} will be your own information i.e. your api keys and token* <br/>
+API_KEY={Api Key}<br/>
+API_KEY_SECRET={Secret} <br/>
+BEARER_TOKEN={Bearer token}<br/>
+ACCESS_TOKEN={Access token}<br/>
+ACCESS_TOKEN_SECRET={Access Token Secret}<br/>
 ___________________________________________________________________________________
 Dependencies:
 - os (built into python)
